@@ -23,3 +23,7 @@ Una vez la tenemos creada accedemos a ella con un doble clic y dentro de ella cr
 ![unidadOrganizaiva(2).PNG](./unidadOrganizaiva(2).PNG)
 ![unidadOrganizaiva(3).PNG](./unidadOrganizaiva(3).PNG)
 ![unidadOrganizaiva(4).PNG](./unidadOrganizaiva(4).PNG)
+![unidadOrganizaiva(5).PNG](./unidadOrganizaiva(5).PNG)
+![unidadOrganizaiva(6).PNG](./unidadOrganizaiva(6).PNG)
+![unidadOrganizaiva(7).PNG](./unidadOrganizaiva(7).PNG)
+
