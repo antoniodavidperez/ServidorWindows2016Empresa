@@ -28,3 +28,4 @@ Una vez la tenemos creada accedemos a ella con un doble clic y dentro de ella cr
 Ahora lo que tenemos que hacer es configurar los usuario. Para ello pondremos que los usuarios solo puedan entrar al equipo del departamento al que pertenecen.
 ![accesoUsuarioEquipo.PNG](./accesoUsuarioEquipo.PNG)
 Ahora vamos a limitar las horas en las que los usuario pueden iniciar sesión en el sistema.
+![horarioUsuario.PNG](./horarioUsuario.PNG)
