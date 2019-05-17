@@ -19,3 +19,7 @@ En las siguientes ventanas solo tendremos que elegir contraseña y comenzará la
 ## Creación de la unidad organizativa de la empresa
 Nuestra empresa tiene tres departamentos en los que hay un equipo y dos empleados en cada uno. Lo primero que tenemos que hacer es crear la unidad organizativa, para ello hacemos clic en herramientas y nos vamos a la gestión de Active Directory. Desde hay hacemos clic derecho sobre servidor(local) y seleccionamos crear una nueva unidad organizativa a la que le daremos el nombre deseado.
 ![unidadOrganizaiva(1).PNG](./unidadOrganizaiva(1).PNG)
+Una vez la tenemos creada accedemos a ella con un doble clic y dentro de ella creamos carpetas para organizar los departamentos. Creamos una carpeta para Marketing, Almacen y Ventas. Dentro de esas carpetas meteremos los usuarios de cada departamento y su correspondiente equipo.
+![unidadOrganizaiva(2).PNG](./unidadOrganizaiva(2).PNG)
+![unidadOrganizaiva(3).PNG](./unidadOrganizaiva(3).PNG)
+![unidadOrganizaiva(4).PNG](./unidadOrganizaiva(4).PNG)
