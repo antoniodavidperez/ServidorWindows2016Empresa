@@ -29,3 +29,6 @@ Ahora lo que tenemos que hacer es configurar los usuario. Para ello pondremos qu
 ![accesoUsuarioEquipo.PNG](./accesoUsuarioEquipo.PNG)
 Ahora vamos a limitar las horas en las que los usuario pueden iniciar sesión en el sistema.
 ![horarioUsuario.PNG](./horarioUsuario.PNG)
+
+## Instalación de DHCP
+Lo siguiente que vamos a hacer es agregar un nuevo rol a nuestro servidor de DHCP. Esto lo hacemos de la misma forma en la que hemos añadido el Active Directory.
