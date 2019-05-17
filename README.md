@@ -9,3 +9,6 @@ Para que nuestro equipo empiece a funcionar como servidor necesitamos un servici
 Una vez lo tenemos seleccionado solo tenemos que darle a siguiente hasta que nos de la opción de instalar.
 ![instalacionActiveDirectory(2).PNG](./instalacionActiveDirectory(2).PNG)
 ![instalacionActiveDirectory(3).PNG](./instalacionActiveDirectory(3).PNG)
+Una vez se haya instalado nos aparecerá un mensaje en el que nos dirá que el rol ya ha sido instalado, pero eso no es todo, Ahora tendremos que configurarlo promoviendolo como controlador de dominio.
+Lo primero que tenemos que configurar es la implementación que en nuestro caso escogeremos un nuebo bosque.
+![instalacionActiveDirectory(4).PNG](./instalacionActiveDirectory(4).PNG)
