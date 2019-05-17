@@ -25,5 +25,5 @@ Una vez la tenemos creada accedemos a ella con un doble clic y dentro de ella cr
 ![unidadOrganizaiva(4).PNG](./unidadOrganizaiva(4).PNG)
 ![unidadOrganizaiva(5).PNG](./unidadOrganizaiva(5).PNG)
 ![unidadOrganizaiva(6).PNG](./unidadOrganizaiva(6).PNG)
-![unidadOrganizaiva(7).PNG](./unidadOrganizaiva(7).PNG)
-
+Ahora lo que tenemos que hacer es configurar los usuario. Para ello pondremos que los usuarios solo puedan entrar al equipo del departamento al que pertenecen.
+![accesoUsuarioEquipo.PNG](./accesoUsuarioEquipo.PNG)
