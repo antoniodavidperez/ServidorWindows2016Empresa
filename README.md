@@ -1,4 +1,4 @@
-# Windows Server 2016
+# Windows Server 2016 - Empresa
 ## Cambio de la IP y nombre del servidor
 Antes de hacer nada en el servidor tenemos que hacer unas configuraciones básicas. Lo primero que haremos es cambiar el nombre del equipo a uno distintivo. También hay que cambiar la IP del servidor a una estática para que el servidor siempre esté accesible y no haya problemas de acceso desde los clientes.
 ![cambioIPServer.PNG](./cambioIPServer.PNG)
@@ -15,3 +15,7 @@ Lo primero que tenemos que configurar es la implementación que en nuestro caso 
 En las siguientes ventanas solo tendremos que elegir contraseña y comenzará la instalación.
 ![instalacionActiveDirectory(5).PNG](./instalacionActiveDirectory(5).PNG)
 ![instalacionActiveDirectory(6).PNG](./instalacionActiveDirectory(6).PNG)
+
+## Creación de la unidad organizativa de la empresa
+Nuestra empresa tiene tres departamentos en los que hay un equipo y dos empleados en cada uno. Lo primero que tenemos que hacer es crear la unidad organizativa, para ello hacemos clic en herramientas y nos vamos a la gestión de Active Directory. Desde hay hacemos clic derecho sobre servidor(local) y seleccionamos crear una nueva unidad organizativa a la que le daremos el nombre deseado.
+![unidadOrganizaiva(1).PNG](./unidadOrganizaiva(1).PNG)
