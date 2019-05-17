@@ -12,3 +12,6 @@ Una vez lo tenemos seleccionado solo tenemos que darle a siguiente hasta que nos
 Una vez se haya instalado nos aparecerá un mensaje en el que nos dirá que el rol ya ha sido instalado, pero eso no es todo, Ahora tendremos que configurarlo promoviendolo como controlador de dominio.
 Lo primero que tenemos que configurar es la implementación que en nuestro caso escogeremos un nuebo bosque y además le daremos un nuevo nombre de dominio a nuestro servidor.
 ![instalacionActiveDirectory(4).PNG](./instalacionActiveDirectory(4).PNG)
+En las siguientes ventanas solo tendremos que elegir contraseña y comenzará la instalación.
+![instalacionActiveDirectory(5).PNG](./instalacionActiveDirectory(5).PNG)
+![instalacionActiveDirectory(6).PNG](./instalacionActiveDirectory(6).PNG)
