@@ -4,5 +4,5 @@ Antes de hacer nada en el servidor tenemos que hacer unas configuraciones básic
 ![cambioIPServer.PNG](./cambioIPServer.PNG)
 
 ## Instalación de Active Directory
-Los primero que tenemos que hacer es instalar el rol de Active Directory a nuestro servidor.
-![named.conf.local.PNG](./named.conf.local.PNG)
+Para que nuestro equipo empiece a funcionar como servidor necesitamos un servicio. Los servicioes se agregan desde el enlace de roles. Desde ahí siguiendo los pasos instalaremos el rol de Active Directory.
+![instalacionActiveDirectory(1).PNG](./instalacionActiveDirectory(1).PNG)
