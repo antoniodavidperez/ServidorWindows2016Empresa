@@ -54,3 +54,11 @@ Ahora vamos a limitar las horas en las que los usuario pueden iniciar sesión en
 
 ## Instalación de DHCP
 Lo siguiente que vamos a hacer es agregar un nuevo rol a nuestro servidor de DHCP. Esto lo hacemos de la misma forma en la que hemos añadido el Active Directory.
+
+![dhcp(1).PNG](./dhcp(1).PNG)
+
+Después de añadirlo necesitamos configurarlo para que de el rango de IPs que nosotros queramos. Para ello lo que tenemos que hacer es agregar un nuevo ámbito.
+
+![dhcp(2).PNG](./dhcp(2).PNG)
+
+Una vez configurado ya está listo para que reparta IPs a los equipos de la red.
