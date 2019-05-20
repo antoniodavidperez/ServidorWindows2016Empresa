@@ -63,7 +63,12 @@ Ahora vamos a limitar las horas en las que los usuario pueden iniciar sesión en
 
 Por último tenemos que agregar la impresora y para ello tenemos que agregar el rol al servidor.
 
-![accesoUsuarioEquipo.PNG](./accesoUsuarioEquipo.PNG)
+![impresora(1).PNG](./impresora(1).PNG)
+
+Una vez instalado tenemos que configurarla y añadir la impresora.
+
+![impresora(2).PNG](./impresora(2).PNG)
+![impresora(2).PNG](./impresora(2).PNG)
 
 ## Instalación de DHCP
 Lo siguiente que vamos a hacer es agregar un nuevo rol a nuestro servidor de DHCP. Esto lo hacemos de la misma forma en la que hemos añadido el Active Directory.
