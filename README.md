@@ -83,6 +83,11 @@ Después de añadirlo necesitamos configurarlo para que de el rango de IPs que n
 Una vez configurado ya está listo para que reparta IPs a los equipos de la red.
 
 ## Comprobaciones
+### Conexión
+Para hacer la conexión con el servidor lo que tenemos que hacer es cambiar el grupo de trabajo por el dominio de nuestro servidor. Una vez hecho eso nos pedirá la contraseña del administrador del sistema del servidor y ya se tendra acceso con los usuarios utilizados después de reiniciar el equipo.
+
+![dhcp(2).PNG](./dhcp(2).PNG)
+
 ### DHCP
 La comprobación la hacemos desde un cliente en la misma red física y cofigurandolo como dhcp y comprobar que tiene una IP dentro de nuestro rango.
 
