@@ -88,6 +88,14 @@ Para hacer la conexión con el servidor lo que tenemos que hacer es cambiar el g
 
 ![comprobacionConexion(1).PNG](./comprobacionConexion(1).PNG)
 
+Una vez que hemos establecido la conexión vamos a intentar conectarnos con un usuario fuera de las horas establecidas (para que se pueda conectar, el equipo ha tenido que ser renombrado con un equipo que tengamos registrado en el servidor y que el usuario tiene que tener acceso a el), para comprobar que no se conecta.
+
+![comprobacionConexion(2).PNG](./comprobacionConexion(2).PNG)
+
+![comprobacionConexion(3).PNG](./comprobacionConexion(3).PNG)
+
+Como vemos en la hora el usuario no va a poder entrar. Ahora vamos a cambiarle el acceso por horario y comprobar que entra.
+
 ### DHCP
 La comprobación la hacemos desde un cliente en la misma red física y cofigurandolo como dhcp y comprobar que tiene una IP dentro de nuestro rango.
 
