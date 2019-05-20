@@ -84,17 +84,23 @@ Una vez configurado ya está listo para que reparta IPs a los equipos de la red.
 
 ## Comprobaciones
 ### Conexión
-Para hacer la conexión con el servidor lo que tenemos que hacer es cambiar el grupo de trabajo por el dominio de nuestro servidor. Una vez hecho eso nos pedirá la contraseña del administrador del sistema del servidor y ya se tendra acceso con los usuarios utilizados después de reiniciar el equipo.
+Lo que necesitamos hacer es cambiar el nombre del equipo a uno que tengamos en el servidor creado. Una vez tengamos eso tenemos que cambiar el grupo de trabajo por el dominio de nuestro servidor. Una vez hecho eso nos pedirá la contraseña del administrador del sistema del servidor y ya se tendra acceso con los usuarios utilizados después de reiniciar el equipo.
 
 ![comprobacionConexion(1).PNG](./comprobacionConexion(1).PNG)
 
-Una vez que hemos establecido la conexión vamos a intentar conectarnos con un usuario fuera de las horas establecidas (para que se pueda conectar, el equipo ha tenido que ser renombrado con un equipo que tengamos registrado en el servidor y que el usuario tiene que tener acceso a el), para comprobar que no se conecta.
+Una vez que hemos establecido la conexión vamos a intentar conectarnos con un usuario fuera de las horas establecidas, para comprobar que no se conecta.
 
 ![comprobacionConexion(2).PNG](./comprobacionConexion(2).PNG)
 
 ![comprobacionConexion(3).PNG](./comprobacionConexion(3).PNG)
 
 Como vemos en la hora el usuario no va a poder entrar. Ahora vamos a cambiarle el acceso por horario y comprobar que entra.
+
+![comprobacionConexion(4).PNG](./comprobacionConexion(4).PNG)
+
+![comprobacionConexion(5).PNG](./comprobacionConexion(5).PNG)
+
+![comprobacionConexion(6).PNG](./comprobacionConexion(6).PNG)
 
 ### DHCP
 La comprobación la hacemos desde un cliente en la misma red física y cofigurandolo como dhcp y comprobar que tiene una IP dentro de nuestro rango.
