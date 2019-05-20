@@ -102,6 +102,8 @@ Como vemos en la hora el usuario no va a poder entrar. Ahora vamos a cambiarle e
 
 ![comprobacionConexion(6).PNG](./comprobacionConexion(6).PNG)
 
+![comprobacionConexion(7).PNG](./comprobacionConexion(7).PNG)
+
 ### DHCP
 La comprobación la hacemos desde un cliente en la misma red física y cofigurandolo como dhcp y comprobar que tiene una IP dentro de nuestro rango.
 
