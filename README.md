@@ -86,3 +86,4 @@ Una vez configurado ya está listo para que reparta IPs a los equipos de la red.
 ### DHCP
 La comprobación la hacemos desde un cliente en la misma red física y cofigurandolo como dhcp y comprobar que tiene una IP dentro de nuestro rango.
 
+![comprobacionDHCP.PNG](./comprobacionDHCP.PNG)
