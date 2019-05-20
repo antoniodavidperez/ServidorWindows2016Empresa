@@ -69,7 +69,7 @@ Una vez instalado tenemos que configurarla y añadir la impresora.
 
 ![impresora(2).PNG](./impresora(2).PNG)
 
-![impresora(2).PNG](./impresora(2).PNG)
+![impresora(3).PNG](./impresora(3).PNG)
 
 ## Instalación de DHCP
 Lo siguiente que vamos a hacer es agregar un nuevo rol a nuestro servidor de DHCP. Esto lo hacemos de la misma forma en la que hemos añadido el Active Directory.
