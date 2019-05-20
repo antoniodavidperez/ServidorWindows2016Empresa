@@ -68,6 +68,7 @@ Por último tenemos que agregar la impresora y para ello tenemos que agregar el 
 Una vez instalado tenemos que configurarla y añadir la impresora.
 
 ![impresora(2).PNG](./impresora(2).PNG)
+
 ![impresora(2).PNG](./impresora(2).PNG)
 
 ## Instalación de DHCP
